@@ -1,4 +1,6 @@
-A simple 2 player Tic Tac Toe command line game.
+Kent's Tic Tac Toe game
+
+Please intsall python 3 to run my simple 2 player Tic Tac Toe command line game.
 
 The game file is split into 2. The Main2.py file is where the main coding is and the Functions.py holds the functions used in the Main2.py
 
